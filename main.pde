@@ -1,3 +1,5 @@
+// By VOX, 2015
+
 int winX = 800;
 int winY = 600;
 
